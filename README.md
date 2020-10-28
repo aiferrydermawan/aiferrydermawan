@@ -5,7 +5,7 @@
 
 ![ma Dog!](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
 
-## I'm a Web Developer
+### I'm a Web Developer
 
 - :office: I’m currently working on [Ecodu.id](https://ecodu.id)
 - :dancers: I’m looking to collaborate on [Ecodu.id](https://ecodu.id)
@@ -31,5 +31,7 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
+
+<br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiferrydermawan&show_icons=true)  
