@@ -1,11 +1,13 @@
+
 ### Hi there, I'm Ferry 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://aiferrydermawan.com)
+[![Website](https://img.shields.io/website?label=aiferrydermawan.com&style=for-the-badge&url=https%3A%2F%2Faiferrydermawan.com)](https://aiferrydermawan.com)
 [![Twitter Follow](https://img.shields.io/twitter/follow/aiferrydermawan?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/aiferrydermawan)
 
-![ma Dog!](https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif)
+[<img style="margin:auto" alt="Ma Dog" width="350px" src="https://media.giphy.com/media/wpoLqr5FT1sY0/giphy.gif" />]()
 
-### I'm a Web Developer
+
+#### Talking about Personal Stuffs:
 
 - :office: I’m currently working on [Ecodu.id](https://ecodu.id)
 - :dancers: I’m looking to collaborate on [Ecodu.id](https://ecodu.id)
@@ -13,7 +15,7 @@
 - :zap: Fun fact: I love motorcycle and cooking
 - :mailbox: How to reach me: aiferrydermawan@gmail.com
 
-### Connect with me:
+#### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://aiferrydermawan.com)
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://www.facebook.com/OwllCoffee/)
@@ -23,7 +25,7 @@
 
 <br />
 
-### Languages and Tools:
+#### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]()
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]()
@@ -31,7 +33,6 @@
 [<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />]()
 [<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]()
 [<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]()
-
 <br />
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiferrydermawan&show_icons=true)  
